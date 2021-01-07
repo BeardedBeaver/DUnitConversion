@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dunitconversion
+dunitconversion.so
+dunitconversion.dylib
+dunitconversion.dll
+dunitconversion.a
+dunitconversion.lib
+dunitconversion-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Linev"
+	],
+	"copyright": "Copyright © 2021, Linev",
+	"description": "DUnitConversion is a simple library providing tools for unit conversion in runtime.",
+	"license": "MIT",
+	"name": "dunitconversion"
+}
