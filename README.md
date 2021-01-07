@@ -3,6 +3,8 @@
 Library for D programming language that provides tools for runtime unit conversion. 
 -----------
 
+![Build](https://github.com/BeardedBeaver/DUnitConversion/workflows/Build/badge.svg) ![Unittest](https://github.com/BeardedBeaver/DUnitConversion/workflows/Unittest/badge.svg)
+
 This is a port of my Qt-based library QUnitConversion which is available [here](https://github.com/BeardedBeaver/QUnitConversion) 
 
 `DUnitConversion` stores units as strings grouped by "family" (for example length or temperature). Each family has its own base unit, conversion inside a family is performed by converting through base unit
