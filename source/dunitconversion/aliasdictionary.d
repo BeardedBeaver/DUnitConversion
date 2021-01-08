@@ -32,7 +32,7 @@ class AliasDictionary {
     /**
      * Gets a list of aliases for a given name
      * Params: name = name to get aliases
-     * Returns: QList<string> containing aliases for a given name
+     * Returns: array of strings containing aliases for a given name
      */
     string[] aliases(string name) const {
         string [] result;

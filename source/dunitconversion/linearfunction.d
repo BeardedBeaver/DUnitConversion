@@ -31,7 +31,7 @@ struct LinearFunction {
 
     /**
      * Reverses current linear function so X = k*Y + b
-     * Returns: an object of type QLinearFunction containing inversed function
+     * Returns: an object of type LinearFunction containing inversed function
      * Details: This function doesn't perform validity check so applying it to
      * invalid function will cause division by zero
      */
